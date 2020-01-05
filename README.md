@@ -19,11 +19,17 @@ This is a well defined full stack System solution of 'Mobiotics' used to store t
 	1. Edit:- Used to perform the update operation. 	2.Delete:- Used to delete the record of user.
 
 home.php - This is main index page.
+
 dbcon.php - This is used to make databse connection.
+
 header.php - Used is create header UI for home page.
+
 footer.php - Used to create footer UI for home page.
+
 add.php - Used to add details of new user through popup modal.
+
 update.php - Used to update details of existing user through popup modal.
+
 
 
 #Visual Studio(VS) Code is used as Source Code Editor to performed this specific task.
