@@ -19,4 +19,5 @@ This is a well defined full stack System solution of 'Mobiotics' used to store t
 	1. Edit:- Used to perform the update operation. 	2.Delete:- Used to delete the record of user.
 
 #Visual Studio(VS) Code is used as Source Code Editor to performed this specific task.
-#Technology used:- HTML, CSS, BOOTSTRAP basics, MySQL JAVASCRIPT basics, PHP, XAMPP Control Panel (For Database)
+
+#Technology used:- HTML, CSS, BOOTSTRAP basics, MySQL, JAVASCRIPT basics, PHP, XAMPP Control Panel (For Database)
