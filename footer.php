@@ -33,7 +33,7 @@
       
         <!-- Copyright -->
         <div class="footer-copyright text-center py-3">
-            Copyright @ 2019 Mobiotics IT Solution Pvt.Ltd.
+            Copyright @ 2020 Mobiotics IT Solution Pvt.Ltd.
             <br>
             All rights reserved
             <br>
